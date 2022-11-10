@@ -42,7 +42,7 @@ outputs:
     description: 'File name of resulting .deb file.'
 runs:
   using: 'docker'
-  image: 'docker://Pivot-Studio/build-deb-action:latest'
+  image: 'docker://registry.cn-hangzhou.aliyuncs.com/pivotstudio/deb-action:latest'
 
 # Ref: https://haya14busa.github.io/github-action-brandings/
 # TODO: update branding if you want.
