@@ -4,4 +4,5 @@ Installed-Size: {INSTALLED_SIZE}
 Architecture: {ARCH}
 Maintainer: {MAINTAINER}
 Section: devel
+Priority: standard
 {DEPENDS}{DESC}
